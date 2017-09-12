@@ -5,3 +5,7 @@ public void System()
 ÐÞ¸ÄONE
 SECOND
 }
+public void static()
+{
+"xiu gai de work place"
+}
